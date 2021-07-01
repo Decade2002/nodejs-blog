@@ -1,0 +1,11 @@
+@import "variable";
+.test {
+  background-color: rebeccapurple;
+  text-emphasis: none;
+}
+h1 {
+  color: $red-color;
+}
+h2 {
+  color: rosybrown;
+}
